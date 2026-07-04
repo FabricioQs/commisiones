@@ -149,3 +149,15 @@ h2 {
         font-size: 1.75rem;
     }
 }
+
+/* ==========================================
+   VALIDACIONES DE ERROR
+   ========================================== */
+.mensaje-error {
+    color: #ef4444; /* Rojo llamativo acorde a tu paleta oscura */
+    font-style: italic;
+    font-size: 0.825rem;
+    display: block;
+    margin-top: 4px;
+    margin-bottom: 12px; /* Espaciado con el siguiente elemento */
+}
